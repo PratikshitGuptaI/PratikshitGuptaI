@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PratikshitGuptaI
-- 👀 I’m interested in Digital Structure And Algorithm
+- 👀 I’m interested in Data Structure And Algorithm
 - 🌱 I’m currently learning Full Stack Web Development & Windows Application Development
 - 💞️ I’m looking to collaborate on Open-source Projects
 - 📫 Contact at pratikshitguptaa01@gmail.com
