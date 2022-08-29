@@ -8,35 +8,43 @@
 PratikshitGuptaI/PratikshitGuptaI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h1>
 Languages and Tools:
-
+</h1>
+<h2>
 Programming Languages:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">
+</h2>
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">
 c cplusplus
-Frontend Development:
+</div>
+<h2>
+  Frontend Development:
+</h2>
 
 html5 css3 sass
+<h2>
 Backend Development:
+</h2>
 
 nodejs express
+<h2>
 Mobile App Development:
-
+</h2>
 android flutter dart
+<h2>
 Database:
-
-mongodb mysql redis oracle
-Devops:
-
-aws docker gcp kubernetes azure
+</h2>
+mongodb mysql
+<h2>
 Backend as a service(BaaS):
-
-firebase amplify heroku
+</h2>
+firebase 
+<h2>
 Software:
-
+</h2>
 illustrator xd figma
-Testing:
-
-selenium
+<h2>
 Other:
-
+</h2>
 git 
