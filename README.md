@@ -2,7 +2,8 @@
 - 👀 I’m interested in Website and Software Development
 - 🌱 I’m currently learning .Net Development and Azure.
 - 💞️ I’m looking to collaborate on Open-source Projects
-- 📫 Contact at pratikshitguptaa01@gmail.com
+- 📫 Contact at pratikshitguptaa01@gmail.com 
+- 📋 <a href="https://www.linkedin.com/in/pratikshit-gupta/">LinkedIn</a>
 
 <!---
 PratikshitGuptaI/PratikshitGuptaI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
