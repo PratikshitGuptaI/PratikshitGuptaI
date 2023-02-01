@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PratikshitGuptaI
 - 👀 I’m interested in Website and Software Development
-- 🌱 I’m currently learning Angular.js and Kubernetes.
+- 🌱 I’m currently learning .Net Development and Azure.
 - 💞️ I’m looking to collaborate on Open-source Projects
 - 📫 Contact at pratikshitguptaa01@gmail.com
 
